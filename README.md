@@ -10,7 +10,7 @@ My main focus in this design was to learn and implement scroll interactions prop
 - Used Auto Layout to maintain proper spacing and alignment
 - Applied Clip Content to enable scrolling inside elements
   
-Implemented both:
+# Implemented both:
 - 💡Horizontal Scroll for food category cards
 - 💡Vertical Scroll for the complete page flow
 
