@@ -24,7 +24,7 @@ Designed with the goal of making content easy to explore for users
 
 Click below to explore the design:
 [View prototype](https://www.figma.com/proto/aoJo1gwVXkr4YeWMWMY7CZ/Food-App-Scrolling-Effect?page-id=0%3A1&node-id=1-2&viewport=194%2C137%2C1.29&t=bMvwJ8SoEfbiMJKN-1&scaling=scale-down&content-scaling=fixed)
-
+[LinkedIn](https://www.linkedin.com/posts/subhashini-sivakumar-837277262_uiux-figmapractice-learningdesign-ugcPost-7390794279599730688-ZPU_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEB3ousBWmkgrfFerMMorvEUqWjq7yWdiU4)
 ## ✨ Learnings
 
 - How scrolling improves navigation and discoverability
