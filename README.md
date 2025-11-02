@@ -31,7 +31,7 @@ Click below to explore the design:
 - Better understanding of frame structure and constraints
 - Step-by-step improvement in UI layout and interactions
 
-  
+<hr>
 <p>
 <img src="Final Page.png" width="500">
 </p>
