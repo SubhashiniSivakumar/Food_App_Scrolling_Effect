@@ -33,6 +33,10 @@ Click below to explore the design:
 
   
 <p>
-<img src="Design Page.png" width="500">
 <img src="Final Page.png" width="500">
 </p>
+<p>
+<img src="Design Page.png" width="500">
+</p>
+
+
